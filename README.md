@@ -73,9 +73,7 @@ Campos personalizados:
 [Usuário] --> (Comentar Receita)
 [Usuário] --> (Avaliar Receita)
 
-yaml
-Copiar
-Editar
+
 
 ---
 
@@ -102,10 +100,6 @@ Editar
 │ ├── css/
 │ └── js/
 
-yaml
-Copiar
-Editar
-
 ---
 
 ## 🧠 Recursos Extras
@@ -126,9 +120,6 @@ RECEITA (id, título, descrição, ingredientes, modo_preparo)
 └── (N) FAVORITOS (user_id, receita_id)
 └── (N) AVALIAÇÃO (user_id, nota)
 
-yaml
-Copiar
-Editar
 
 ---
 
